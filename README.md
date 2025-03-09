@@ -94,7 +94,7 @@ npm run dev
 
 
 
-git remote -vpwd
+git remote -v
 
 
 rm -rf .git
@@ -110,6 +110,14 @@ git remote add origin https://github.com/username/repository.git
 
 
 git push -u origin main
+
+
+
+git remote add origin https://github.com/WlXPzEqki4/Sweden_4.git
+
+
+
+
 
 
 
